@@ -2,7 +2,7 @@
 
 # statlib
 
-statistical functions in python
+statistical functions in python - playground for the course *introduction to statistics with python*
 
 
 ## Development
